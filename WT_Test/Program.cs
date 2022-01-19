@@ -23,9 +23,9 @@ namespace WT_Test
                 var serviceCollection = new ServiceCollection();
                 ConfigureServices(serviceCollection);
                 var serviceProvider = serviceCollection.BuildServiceProvider();
-                //serviceProvider.GetService<Run>().UpdateProfile();
-                //serviceProvider.GetService<Run>().LeaveApplication();
-                //serviceProvider.GetService<Run>().LeaveApporval();
+                serviceProvider.GetService<Run>().UpdateProfile();
+                serviceProvider.GetService<Run>().LeaveApplication();
+                serviceProvider.GetService<Run>().LeaveApporval();
                 serviceProvider.GetService<Run>().ChangeNotificatonPreferance();
                 Console.ReadLine();
             }
