@@ -1,0 +1,15 @@
+C:\Personal\WT_Test\WT_Test\Service\obj\Debug\net5.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\WT_Test\WT_Test\Service\obj\Debug\net5.0\Service.AssemblyInfoInputs.cache
+C:\Personal\WT_Test\WT_Test\Service\obj\Debug\net5.0\Service.AssemblyInfo.cs
+C:\Personal\WT_Test\WT_Test\Service\obj\Debug\net5.0\Service.csproj.CoreCompileInputs.cache
+C:\Personal\WT_Test\WT_Test\Service\obj\Debug\net5.0\Service.csproj.AssemblyReference.cache
+C:\Personal\WT_Test\WT_Test\Service\bin\Debug\net5.0\Service.deps.json
+C:\Personal\WT_Test\WT_Test\Service\bin\Debug\net5.0\Service.dll
+C:\Personal\WT_Test\WT_Test\Service\bin\Debug\net5.0\ref\Service.dll
+C:\Personal\WT_Test\WT_Test\Service\bin\Debug\net5.0\Service.pdb
+C:\Personal\WT_Test\WT_Test\Service\bin\Debug\net5.0\Entities.dll
+C:\Personal\WT_Test\WT_Test\Service\bin\Debug\net5.0\Entities.pdb
+C:\Personal\WT_Test\WT_Test\Service\obj\Debug\net5.0\Service.csproj.CopyComplete
+C:\Personal\WT_Test\WT_Test\Service\obj\Debug\net5.0\Service.dll
+C:\Personal\WT_Test\WT_Test\Service\obj\Debug\net5.0\ref\Service.dll
+C:\Personal\WT_Test\WT_Test\Service\obj\Debug\net5.0\Service.pdb
